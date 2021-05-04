@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+body {	padding: 0px;margin: 0px;background-image: url("back_ec.jpg");background-repeat: no-repeat;background-size: cover;}
+header {height: 16%;width: 100%;background-color: #001226;	color: #fcf513;}
+h1 {padding-left: 5px;}
+th, td {padding: 12px;}
+.td_ft {width: 50%;}
+.ft_100 {	width: 100%;}
+.im_rg {float: right;}
+.scroll {background: rgba(0, 51, 102, 0.1);padding: 5px;border-spacing: 0;border: 2px solid black;}
+.liste {background: rgba(255, 255, 255, 0.2);padding: 5px;	border-spacing: 0;}
+.liste:nth-child(even){background: rgba(0, 51, 102, 0.1);}
+.liste:hover {color:black;background:rgba(255,255,0,0.2);}

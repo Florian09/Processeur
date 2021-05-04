@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg_canvas" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="328.813" height="325.828" viewBox="0 0 328.813 325.828">
+<style type="text/css">
+#frame {fill: #ffffbf;  stroke:none; stroke-width:0}
+.circle_ts {fill:none; stroke:navy; stroke-width:1px}
+.asso_text {fill:#000000; font-family: Verdana ; font-size:12px;}
+.ent_text {fill:#000000; font-family: Verdana ; font-size:12px;}
+.lien_text {fill:#4575b4; font-family: Verdana ; font-size:12px;}
+.asso_top {fill:#fdae61; stroke:#fdae61; stroke-width:0}
+.asso_bot {fill:#fee090; stroke:#fee090; stroke-width:0}
+.asso_df {fill:#fee090; stroke:#f46d43; stroke-width:2px}
+.asso_sep {stroke:#f46d43; stroke-width:1px}
+.asso_bord {rx:14; fill:none; stroke:#f46d43; stroke-width:2px}
+.lien_droit {stroke:#f46d43; stroke-width:2px}
+.lien_curv {fill:none; stroke:#f46d43; stroke-width:2px}
+.lien_arrow {fill:#f46d43; stroke-width:0}
+.lien_soul {stroke:#4575b4; stroke-width:1px}
+.ent_top {fill:#abd9e9; stroke:#abd9e9; stroke-width:0}
+.ent_sep {stroke:#74add1; stroke-width:1px}
+.ent_bot {fill:#e0f3f8; stroke:#e0f3f8; stroke-width:0}
+.ent_bord { fill:none; stroke:#74add1; stroke-width:2px}
+.ent_soul {stroke:#000000; stroke-width:1px}
+.ent_tiret {fill:none;stroke:#000000;stroke-width:1px;stroke-dasharray:4px}
+</style>
+<rect id="frame" x="0" y="0" width="328.813" height="325.828"/>
+<defs><g id="fleche">
+<path class="lien_arrow" d="M 0 0 L -14 6 L -8 0 L -14 -6 Z" />
+</g></defs>
+<g id="frame_lien">
+<line class="lien_droit " x1="161.173" y1="116.679" x2="49.532" y2="116.679"/>
+<text class="lien_text" x="99.859" y="113.179">0,N</text>
+<line class="lien_droit " x1="161.173" y1="116.679" x2="276.048" y2="116.679"/>
+<text class="lien_text" x="208.951" y="113.179">1,1</text>
+<line class="lien_droit " x1="49.532" y1="270.594" x2="49.532" y2="116.679"/>
+<text class="lien_text" x="53.032" y="205.68">0,N</text>
+<line class="lien_droit " x1="49.532" y1="270.594" x2="161.173" y2="270.594"/>
+<text class="lien_text" x="102.13" y="267.094">1,1</text>
+<line class="lien_droit " x1="276.048" y1="270.594" x2="161.173" y2="270.594"/>
+<text class="lien_text" x="211.524" y="267.094">1,N</text>
+<line class="lien_droit " x1="276.048" y1="270.594" x2="276.048" y2="116.679"/>
+<text class="lien_text" x="279.548" y="227.05">1,1</text>
+</g>
+<g id="frame_box">
+<rect class="ent_top" x="12.555" y="70.445" width="73.953" height="22.016"/>
+<rect class="ent_bot" x="12.555" y="92.461" width="73.953" height="70.453"/>
+<rect class="ent_bord" x="12.555" y="70.445" width="73.953" height="92.469"/>
+<line class="ent_sep" x1="12.555" y1="92.461" x2="86.508" y2="92.461"/>
+<path class="asso_top" d="M 181.743 94.163 a 14 14 90 0 1 14 14 v 8.016 h -69.141 v -8.016 a 14 14 90 0 1 14 -14"/>
+<path class="asso_bot" d="M 140.602 139.195 a 14 14 90 0 1 -14 -14 v -9.016 h 69.141 v 9.016 a 14 14 90 0 1 -14 14"/>
+<rect class="asso_bord" x="126.602" y="94.163" width="69.141" height="45.032" rx="14"/>
+<line class="asso_sep" x1="126.602" y1="116.179" x2="195.743" y2="116.179"/>
+<rect class="ent_top" x="232.283" y="38.406" width="87.531" height="22.016"/>
+<rect class="ent_bot" x="232.283" y="60.422" width="87.531" height="134.531"/>
+<rect class="ent_bord" x="232.283" y="38.406" width="87.531" height="156.547"/>
+<line class="ent_sep" x1="232.283" y1="60.422" x2="319.814" y2="60.422"/>
+<path class="asso_top" d="M 76.063 248.078 a 14 14 90 0 1 14 14 v 8.016 h -81.063 v -8.016 a 14 14 90 0 1 14 -14"/>
+<path class="asso_bot" d="M 23 293.11 a 14 14 90 0 1 -14 -14 v -9.016 h 81.063 v 9.016 a 14 14 90 0 1 -14 14"/>
+<rect class="asso_bord" x="9" y="248.078" width="81.063" height="45.032" rx="14"/>
+<line class="asso_sep" x1="9" y1="270.094" x2="90.063" y2="270.094"/>
+<rect class="ent_top" x="124.892" y="224.36" width="72.563" height="22.016"/>
+<rect class="ent_bot" x="124.892" y="246.376" width="72.563" height="70.453"/>
+<rect class="ent_bord" x="124.892" y="224.36" width="72.563" height="92.469"/>
+<line class="ent_sep" x1="124.892" y1="246.376" x2="197.455" y2="246.376"/>
+<path class="asso_top" d="M 298.392 248.078 a 14 14 90 0 1 14 14 v 8.016 h -72.688 v -8.016 a 14 14 90 0 1 14 -14"/>
+<path class="asso_bot" d="M 253.704 293.11 a 14 14 90 0 1 -14 -14 v -9.016 h 72.688 v 9.016 a 14 14 90 0 1 -14 14"/>
+<rect class="asso_bord" x="239.704" y="248.078" width="72.688" height="45.032" rx="14"/>
+<line class="asso_sep" x1="239.704" y1="270.094" x2="312.392" y2="270.094"/>
+</g>
+<g id="frame_text">
+<g class="ent_text">
+<text x="19.555" y="88.461" >fabricant</text>
+<text x="19.555" y="125.493" >fab_nom</text>
+<text x="19.555" y="141.509" >fab_web</text>
+<text x="19.555" y="157.525" >fab_coord</text>
+<text text-decoration="underline" x="19.555" y="109.477" >fab_ref</text>
+</g>
+<g class="asso_text">
+<text x="133.602" y="112.179" >fabriquer</text>
+</g>
+<g class="ent_text">
+<text x="239.283" y="56.422" >processeur</text>
+<text x="239.283" y="93.454" >libelle</text>
+<text x="239.283" y="109.47" >prix</text>
+<text x="239.283" y="125.486" >score_multi</text>
+<text x="239.283" y="141.502" >score_mono</text>
+<text x="239.283" y="157.518" >watt</text>
+<text x="239.283" y="173.534" >annee</text>
+<text x="239.283" y="189.55" >utilisation</text>
+<text text-decoration="underline" x="239.283" y="77.438" >reference</text>
+</g>
+<g class="asso_text">
+<text x="16" y="266.094" >developper</text>
+</g>
+<g class="ent_text">
+<text x="131.892" y="242.376" >socket</text>
+<text x="131.892" y="279.408" >utilisation</text>
+<text x="131.892" y="295.424" >libelle</text>
+<text x="131.892" y="311.44" >annee</text>
+<text text-decoration="underline" x="131.892" y="263.392" >socket</text>
+</g>
+<g class="asso_text">
+<text x="246.704" y="266.094" >supporter</text>
+</g>
+</g>
+</svg>
