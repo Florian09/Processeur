@@ -1,4 +1,5 @@
-<?php include("./ress/connect.php");
+<?php 
+include("./ress/connect.php");
 if(isset($_GET["fabricant"])) $fab=$_GET["fabricant"]; else $fab="AMD";
 ?>
 <!DOCTYPE html>
